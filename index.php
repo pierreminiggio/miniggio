@@ -1,6 +1,7 @@
 <?php
 
 $domains = [
+    'gitgud.fr',
     'miniggio.art',
     'miniggio.best',
     'miniggio.cloud',
@@ -20,7 +21,9 @@ $domains = [
     'miniggio.tech',
     'miniggio.uno',
     'miniggio.website',
-    'miniggio.xyz'
+    'miniggio.xyz',
+    'miniggiodev.fr',
+    'pierreminiggio.fr'
 ];
 ?>
 
