@@ -2,6 +2,8 @@
 
 $domains = [
     'gitgud.fr',
+    'jesuisboosted.com',
+    'jesuisboosted.fr',
     'miniggio.art',
     'miniggio.best',
     'miniggio.cloud',
