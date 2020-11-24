@@ -1,6 +1,7 @@
 <?php
 
 $domains = [
+    'copypasta.fr',
     'gitgud.fr',
     'jesuisboosted.com',
     'jesuisboosted.fr',
