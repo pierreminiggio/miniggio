@@ -43,9 +43,12 @@ $domains = [
     'miniggio.website',
     'miniggio.xyz',
     'miniggiodev.fr',
+    'œil.fr',
+    'œuf.fr',
     'pierre.cash',
     'pierre.uno',
-    'pierreminiggio.fr'
+    'pierreminiggio.fr',
+    'tué.fr',
 ];
 ?>
 
