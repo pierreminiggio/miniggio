@@ -2,6 +2,7 @@
 
 $domains = [
     'apprendrephp.fr',
+    'baritone.fr',
     'copypasta.fr',
     'ggio.be',
     'ggio.eu',
