@@ -48,6 +48,7 @@ $domains = [
     'œuf.fr',
     'pierre.cash',
     'pierre.uno',
+    'pierreminiggio.com',
     'pierreminiggio.fr',
     'tué.fr',
 ];
