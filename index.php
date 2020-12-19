@@ -1,6 +1,7 @@
 <?php
 
 $domains = [
+    'apprendrephp.fr',
     'copypasta.fr',
     'ggio.be',
     'ggio.eu',
