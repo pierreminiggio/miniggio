@@ -5,6 +5,7 @@ $domains = [
     'baritone.fr',
     'copypasta.fr',
     'ggio.be',
+    'ggio.dev',
     'ggio.eu',
     'ggio.fr',
     'ggio.fun',
@@ -13,6 +14,7 @@ $domains = [
     'ggio.live',
     'ggio.me',
     'ggio.online',
+    'ggio.org',
     'ggio.shop',
     'ggio.site',
     'ggio.space',
@@ -27,6 +29,7 @@ $domains = [
     'miniggio.art',
     'miniggio.best',
     'miniggio.cloud',
+    'miniggio.dev',
     'miniggio.digital',
     'miniggio.eu',
     'miniggio.fr',
@@ -35,6 +38,7 @@ $domains = [
     'miniggio.me',
     'miniggio.net',
     'miniggio.online',
+    'miniggio.org',
     'miniggio.ovh',
     'miniggio.shop',
     'miniggio.site',
@@ -53,9 +57,7 @@ $domains = [
     'pierreminiggio.fr',
     'tué.fr',
 ];
-?>
-
-Réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
+?>Réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
 <ul>
     <?php foreach ($domains as $domain): ?>
         <li><a
