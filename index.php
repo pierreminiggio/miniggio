@@ -57,6 +57,8 @@ $domains = [
     'pierre.uno',
     'pierreminiggio.com',
     'pierreminiggio.fr',
+    'touslesverbes.fr',
+    'touslesverbes.com',
     'tué.fr',
 ];
 ?>Réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
