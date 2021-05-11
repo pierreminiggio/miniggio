@@ -3,6 +3,7 @@
 $domains = [
     'apprendrephp.fr',
     'baritone.fr',
+    'baritone.website',
     'copypasta.fr',
     'ggio.be',
     'ggio.dev',
