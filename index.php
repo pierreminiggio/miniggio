@@ -51,16 +51,13 @@ $domains = [
     'miniggio.website',
     'miniggio.xyz',
     'miniggiodev.fr',
-    'œil.fr',
-    'œuf.fr',
     'pierre.cash',
     'pierre.uno',
     'pierrecalcaire.com',
     'pierreminiggio.com',
     'pierreminiggio.fr',
     'touslesverbes.fr',
-    'touslesverbes.com',
-    'tué.fr',
+    'touslesverbes.com'
 ];
 ?>Réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
 <ul>
