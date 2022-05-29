@@ -53,6 +53,7 @@ $domains = [
     'miniggiodev.fr',
     'pierre.cash',
     'pierre.uno',
+    'pierre.tw',
     'pierrecalcaire.com',
     'pierreminiggio.com',
     'pierreminiggio.fr',
