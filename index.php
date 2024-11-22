@@ -1,33 +1,9 @@
 <?php
 
-$domains = [
-    'apprendrephp.fr',
-    'baritone.fr',
-    'copypasta.fr',
-    'ggio.be',
-    'ggio.dev',
-    'ggio.fr',
-    'ggio.link',
-    'ggio.org',
-    'ggio.space',
-    'gitgud.fr',
-    'jesuisboosted.com',
-    'jesuisboosted.fr',
-    'miniggio.be',
-    'miniggio.de',
-    'miniggio.dev',
-    'miniggio.fr',
-    'miniggio.org',
-    'miniggio.uno',
-    'miniggiodev.fr',
-    'pierre.uno',
-    'pierre.tw',
-    'pierrecalcaire.com',
-    'pierreminiggio.com',
-    'pierreminiggio.fr',
-    'touslesverbes.fr',
-    'touslesverbes.com'
-];
+$currentFolder = __DIR__ . DIRECTORY_SEPARATOR;
+
+$domains = require_once $currentFolder . 'domains.php';
+
 ?><?php echo count($domains); ?> noms de domaine réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
 <ul>
     <?php foreach ($domains as $domain): ?>
