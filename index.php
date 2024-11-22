@@ -46,7 +46,7 @@ $domains = [
     'touslesverbes.fr',
     'touslesverbes.com'
 ];
-?>Réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
+?><?php echo count($domains); ?> noms de domaine réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :
 <ul>
     <?php foreach ($domains as $domain): ?>
         <li><a
