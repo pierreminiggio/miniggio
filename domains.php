@@ -11,8 +11,6 @@ return [
     'ggio.org',
     'ggio.space',
     'gitgud.fr',
-    'jesuisboosted.com',
-    'jesuisboosted.fr',
     'miniggio.be',
     'miniggio.de',
     'miniggio.dev',
