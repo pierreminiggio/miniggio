@@ -22,7 +22,5 @@ return [
     'pierre.tw',
     'pierrecalcaire.com',
     'pierreminiggio.com',
-    'pierreminiggio.fr',
-    'touslesverbes.fr',
-    'touslesverbes.com'
+    'pierreminiggio.fr'
 ];
